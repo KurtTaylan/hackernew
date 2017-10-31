@@ -1,2 +1,3 @@
 export const GC_USER_ID = 'graphcool-user-id'
 export const GC_AUTH_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MDkyNjk1NTQsImNsaWVudElkIjoiY2o5Y2s0Z2JkMDJjYzAxNDBzMWpmMXQ5OCJ9.nDi5RaN6xUhxtp65oWzu9RDroj_zbcKJzo9h0XI2AJQ'
+export const LINKS_PER_PAGE = 5
